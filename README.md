@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Albe96XDA&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=pratikmandi&color=blueviolet&label=Profile+Views)
 
-[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=Albe96XDA&count_private=true&show_icons=true&theme=radical)](https://github.com/Albe96XDA?tab=repositories)
+[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikmandi&count_private=true&show_icons=true&theme=radical)](https://github.com/pratikmandi?tab=repositories)
 
 
 
 <!--
-**Albe96XDA/Albe96XDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pratikmandi/pratikmandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
