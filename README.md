@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 I'm Pratik a.k.a [Albe96](https://forum.xda-developers.com/m/albe96.7334959/) in XDA Developers Forum.
 
 ![](https://komarev.com/ghpvc/?username=pratikmandi&color=blueviolet&label=Profile+Views)
 
