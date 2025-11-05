@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 | GitHub Stats | Top Languages |
 |--------------|----------------|
-| ![](https://github-readme-stats.vercel.app/api?username=pratikmandi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmandi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=pratikmandi&theme=midnight-purple&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmandi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 ---
 
